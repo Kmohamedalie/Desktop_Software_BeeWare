@@ -4,7 +4,7 @@
 <br>
 
 
-The following demo is part of the [Mobile and Web application course]() of the [Msc in Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement) degree program at the [University of Bologna](https://www.unibo.it/it/campus-cesena/campus-di-cesena)
+The following demo is part of the Mobile and Web application course of the [Msc in Digital Transformation Management](https://corsi.unibo.it/2cycle/DigitalTransformationManagement) degree program at the [University of Bologna](https://www.unibo.it/it/campus-cesena/campus-di-cesena)
 
 <br>
 
